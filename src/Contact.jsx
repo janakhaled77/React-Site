@@ -3,7 +3,7 @@ import React from 'react'
 export default function Contact() {
   return (
     <div>
-      <h2 className='text-gray-900 font-bold text-4xl text-center p-5'>CONTACT SECTION</h2>
+      <h2 className='text-gray-900 font-bold text-4xl text-center p-5 pt-32'>CONTACT SECTION</h2>
 
       <div className="flex items-center justify-center mt-2">
         <div className="h-1 bg-gray-800 w-20"></div>

@@ -3,7 +3,7 @@ import React from 'react'
 export default function About() {
     return (
         <div>
-            <main className='bg-teal p-40'>
+            <main className='bg-teal p-52'>
                 <h2 className='text-white font-bold text-4xl text-center p-5'>CONTACT SECTION</h2>
 
                 <div className="flex items-center justify-center mt-2">
