@@ -18,10 +18,10 @@ function Footer() {
         <div className="flex-1 text-center mx-4 my-2 md:my-0">
           <h1 className="text-white text-3xl font-bold mb-3">AROUND THE WEB</h1>
           <span className='text-white text-xl'>
-          <i class="fa-brands fa-facebook p-2 m-2 border rounded-full"></i>
-          <i class="fa-brands fa-twitter p-2 m-2 border rounded-full"></i>
-          <i class="fa-brands fa-linkedin-in p-2 m-2 border rounded-full"></i>
-          <i class="fa-solid fa-globe p-2 m-2 border rounded-full"></i>
+          <i className="fa-brands fa-facebook p-2 m-2 border rounded-full"></i>
+          <i className="fa-brands fa-twitter p-2 m-2 border rounded-full"></i>
+          <i className="fa-brands fa-linkedin-in p-2 m-2 border rounded-full"></i>
+          <i className="fa-solid fa-globe p-2 m-2 border rounded-full"></i>
             </span>  
         </div>
 
